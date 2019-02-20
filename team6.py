@@ -6,9 +6,9 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Do not trust us'
-team_strategy =  'If they have a positive score we betray them. If they have zero we collude. If it is less then zero we will always collude. Unless they have just betrayed.'
-strategy_description = 'Math is the univarsal language.'
+team_name = 'Team 6'
+strategy_name =  'Math is a universal language'
+strategy_description = 'If they have a positive score we betray them. If they have zero we collude. If it is less then zero we will always collude. Unless they have just betrayed.'
     
 
 
